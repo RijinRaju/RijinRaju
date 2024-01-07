@@ -31,11 +31,12 @@ Feel free to reach out to me through the following channels:
 - Website: ------------
 - LinkedIn: [Rijin Raju]([https://www.linkedin.com/in/rijinraju](https://www.linkedin.com/in/rijin-raju-817ab71b9/))
 - Twitter: [@RijinRaju12](https://twitter.com/RijinRaju12)
+- TryHackMe:[Mantis002] (https://tryhackme.com/p/Mantis002) <img src="https://tryhackme-badges.s3.amazonaws.com/Mantis002.png" alt="TryHackMe">
 
 ## Projects Documentation and Screenshots
-### Sentiment Analysis Project
-![Sentiment Analysis](/images/sentiment_analysis.png)
-Detailed documentation and usage instructions can be found [here](https://github.com/yourusername/project1/docs).
+### Email Spam filtering Project
+![Spam filtering](/images/spam_filtering.png)
+
 
 ### E-commerce Website
 ![E-commerce Website](/images/ecommerce_website.png)
