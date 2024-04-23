@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rijinraju&label=Profile%20views&color=0e75b6&style=flat" alt="rijinraju" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rijinraju" alt="rijinraju" /></a> </p>
-
 - 🔭 I’m currently working on [pydocgenerator](https://pypi.org/project/pydcogenerator/)
 
 - 💬 Ask me about **python ,cybersecurity, ML**
