@@ -6,10 +6,10 @@
 Welcome to my GitHub profile! I am a self-taught Python developer with a passion for machine learning and web development. I enjoy building projects using Python, React, Django, FastAPI, MongoDB, and PostgreSQL.
 
 ## Projects
-### Project 1: Email Spam Filtering 
-- Description: Developed a Email spam filtering using machine learning model.
-- Key Features: Preprocessing, machine learning models, accuracy evaluation.
-- [Repository](https://github.com/yourusername/project1) 
+### Project 1: PyDocGenerator
+- Description: Developed a ML tool for generating the docstring/comment for python code.
+- Key Features: NLP,fine tuned model is used, accuracy evaluation.
+- [Repository](https://github.com/RijinRaju/pydocgenerator) | [Live Demo](https://pypi.org/project/pydcogenerator/)
 
 ### Project 2: E-commerce Website with Django and React
 - Description: Built a full-stack e-commerce website using Django and React, allowing users to browse and purchase products.
@@ -18,11 +18,13 @@ Welcome to my GitHub profile! I am a self-taught Python developer with a passion
 
 ## Skills
 - Python 
-- React 
+- React JS
 - Django 
 - FastAPI
 - MongoDB 
-- PostgreSQL 
+- PostgreSQL
+- Docker
+- PHP Laravel
 
 
 ## Contact
@@ -31,15 +33,16 @@ Feel free to reach out to me through the following channels:
 - Website: https://rijinraju.github.io/Portfolio/
 - LinkedIn: [Rijin Raju]([https://www.linkedin.com/in/rijinraju](https://www.linkedin.com/in/rijin-raju-817ab71b9/))
 - Twitter: [@RijinRaju12](https://twitter.com/RijinRaju12)
-- TryHackMe:<img src="https://tryhackme-badges.s3.amazonaws.com/Mantis002.png" alt="TryHackMe">
 - HackerRank:[Rijin Raju](https://www.hackerrank.com/profile/rijinraj856)
 - 
 ## Projects Documentation and Screenshots
-### Email Spam filtering Project
-![Spam filtering]
+### Task Scheduling and video conferencing Application
+  - create a task scheduling and video conferencing application using django rest framework and React JS.
+  - Realtime chat is implement using websocket and django channels.
+  - 
 
 
 ### E-commerce Website
 ![E-commerce Website]
-For installation and usage guidelines, refer to the [documentation](https://github.com/yourusername/project2/docs).
+For installation and usage guidelines, refer to the [documentation](https://github.com/RijinRaju/Ecommerce).
 
